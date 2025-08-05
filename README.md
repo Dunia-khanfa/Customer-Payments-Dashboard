@@ -4,11 +4,11 @@ I created an Excel dashboard to analyze customer payment data, including total s
 📊 Overview
 This project presents an interactive dashboard designed to analyze customer payment behaviors. Built using Excel and Power BI, it visualizes spending patterns across various demographics, regions, and payment methods, offering actionable insights for business optimization.
 
-Excel File: <a href="https://github.com/Dunia-khanfa/Customer-Payments-Dashboard/blob/main/Customer%20Payments%20Dashboard%20(1).xlsx"> 
+Excel File: <a href="https://github.com/Dunia-khanfa/Customer-Payments-Dashboard/blob/main/Customer%20Payments%20Dashboard%20(1).xlsx"> Customer-Payments-Dashboard</a>
 
-Power BI Dashboard: <a href= "https://app.powerbi.com/links/wBw9fytM73?ctid=a5d94e10-b9a1-4447-aa82-d1d05eb8c14a&pbi_source=linkShare">
+Power BI Dashboard: <a href= "https://app.powerbi.com/links/wBw9fytM73?ctid=a5d94e10-b9a1-4447-aa82-d1d05eb8c14a&pbi_source=linkShare"> Customer-Payments-Dashboard</a>
 
-Dashboard Image: <a href= "https://github.com/Dunia-khanfa/Customer-Payments-Dashboard/blob/main/Customer%20Payments%20Dashboard%20image.pdf">
+Dashboard Image: <a href= "https://github.com/Dunia-khanfa/Customer-Payments-Dashboard/blob/main/Customer%20Payments%20Dashboard%20image.pdf"> Customer-Payments-Dashboard</a>
 
 🔍 Key Performance Indicators (KPIs)
 The dashboard includes the following KPIs:
