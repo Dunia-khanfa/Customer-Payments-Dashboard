@@ -32,12 +32,11 @@ Who are the top spending customers?
 
 What are the preferred payment methods among customers?
 
-
 🛠️ Technologies Used
+
 Excel: For data preprocessing and initial analysis.
 
 Power BI: For interactive data visualization and dashboard creation.
 
 
-Customer Payments Dashboard image.pdf: Provides a visual representation of the dashboard layout.
 
