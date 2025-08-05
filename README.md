@@ -35,6 +35,7 @@ What are the preferred payment methods among customers?
 
 🛠️ Technologies Used
 Excel: For data preprocessing and initial analysis.
+
 Power BI: For interactive data visualization and dashboard creation.
 
 
