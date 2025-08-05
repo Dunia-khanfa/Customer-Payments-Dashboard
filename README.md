@@ -1,5 +1,5 @@
 # Customer-Payments-Dashboard
-I created an Excel dashboard to analyze customer payment data, including total spending by age, region, and payment method. The project involved data preprocessing, cleaning, and visualization, providing insights into customer spending patterns and behavior across various demographics.   
+I created an Excel dashboard to analyze customer payment data, including total spending by age, region, and payment method. The project involved data preprocessing, cleaning, and visualization, providing insights into customer spending patterns and behavior across various demographics.    
 
 📊 Overview
 This project presents an interactive dashboard designed to analyze customer payment behaviors. Built using Excel and Power BI, it visualizes spending patterns across various demographics, regions, and payment methods, offering actionable insights for business optimization.
